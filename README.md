@@ -1,5 +1,4 @@
-# 2021-GAIIC-phase1-seq2seq
-
+# 全球人工智能技术创新大赛【赛道一】 top4水煮毛血旺 seq2seq
 ## 目录结构
 - Mydata：数据处理
 - Mynet：模型定义
